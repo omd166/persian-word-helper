@@ -34,6 +34,8 @@ if (! function_exists('persian_to_english')) {
     }
 }
 
+//comments
+
 if (! function_exists('replace_slug_to_persian')) {
     /**
      * Returns slug for string.
